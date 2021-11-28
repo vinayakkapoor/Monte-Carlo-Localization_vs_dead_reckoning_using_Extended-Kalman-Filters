@@ -6,11 +6,11 @@ This repository implements:
 
 ## Steps to use the repository
 
-a) Set up [ROS](http://wiki.ros.org/noetic/Installation/Ubuntu) (neotic preferred)
+1) Set up [ROS](http://wiki.ros.org/noetic/Installation/Ubuntu) (neotic preferred)
 
-b) Set up the [ROS Navigation Stack](http://wiki.ros.org/navigation)
+2) Set up the [ROS Navigation Stack](http://wiki.ros.org/navigation)
 
-c) Clone this repository to (your catkin workspace)./src and run catkin_make (do not forget to source your devel/setup.bash file :D)
+3) Clone this repository to (your catkin workspace)./src and run catkin_make (do not forget to source your devel/setup.bash file :D)
 
 
 ### Advanced Monte Carlo Localisation 
