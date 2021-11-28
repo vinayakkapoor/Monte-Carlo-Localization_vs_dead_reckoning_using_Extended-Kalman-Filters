@@ -18,5 +18,5 @@ This repository implements:
   
 ### Dead reckoning using Extended Kalman Filters 
 
-  Install the [robot_localization]() package using  ```sudo apt-get install ros-neotic-robot_localization -y```
+  Install the [robot_localization](http://wiki.ros.org/robot_localization) package using  ```sudo apt-get install ros-neotic-robot_localization -y```
 
