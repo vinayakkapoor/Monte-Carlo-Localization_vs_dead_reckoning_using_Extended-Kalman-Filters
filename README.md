@@ -7,9 +7,7 @@ This repository implements:
 ## Steps to use the repository
 
 1) Set up [ROS](http://wiki.ros.org/noetic/Installation/Ubuntu) (neotic preferred)
-
 2) Set up the [ROS Navigation Stack](http://wiki.ros.org/navigation)
-
 3) Clone this repository to (your catkin workspace)./src and run catkin_make (do not forget to source your devel/setup.bash file :D)
 
 
